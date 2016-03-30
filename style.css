@@ -1,0 +1,80 @@
+body{
+   background: #5D8AA8;
+   background: url("images/africa_phone.jpg");
+   background-size: cover;
+}
+a {
+  color: #8G8AP4;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #FFBF00;
+}
+
+
+div#wrapper{
+	margin: auto;
+	width: 800px;
+
+}
+
+#horzNav {
+	display: block;
+	padding: 10px 20px 10px 0px;
+	background: transparent;
+	text-decoration: none;
+}
+
+#horNav a{
+	text-decoration: none;
+	padding: 0px 0px 0px 20px;
+	color: white;
+}
+
+header{
+	display: block;
+	padding: 0px 0px 70p 0px;
+}
+#websiteLogo{ float: left; }
+
+#horzNav {
+	display: block;
+	padding: 10px 20px 10p 0px;
+	background: #e3e3e3;
+	text-decoration: none;
+}
+
+main {padding:10px 20px 20px 20px; }
+
+aside { background: #9966cc; }
+
+#uoListTypes{
+	list-style-type: devanagari;
+
+}
+
+footer {
+	background: black;
+	color: white;
+	padding:10px 10px 10px 10px;;
+}
+
+#horzNav:hover{
+	font-size: 20px;
+	font-stretch: 34px;
+	text-decoration: none;
+    color: black;
+}
+form {
+	list-style: none;
+	margin-bottom: 20px;
+}
+form {
+	padding-left: 0,
+}
+
+label {
+	display: block;
+}
